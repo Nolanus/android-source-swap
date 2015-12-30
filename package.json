@@ -1,6 +1,6 @@
 {
   "name": "android-source-swap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily swap android sdk sources for device debugging",
   "main": "swap-source.js",
   "scripts": {
