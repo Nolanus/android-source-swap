@@ -1,6 +1,6 @@
 {
   "name": "android-source-swap",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Easily swap android sdk sources for device debugging",
   "main": "swap-source.js",
   "scripts": {
@@ -24,6 +24,6 @@
   "homepage": "https://github.com/Nolanus/android-source-swap#readme",
   "preferGlobal": true,
   "bin": {
-    "android-swap-sources": "source-swap.js"
+    "android-source-swap": "source-swap.js"
   }
 }
