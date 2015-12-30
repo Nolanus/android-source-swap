@@ -1,0 +1,29 @@
+{
+  "name": "android-source-swap",
+  "version": "0.0.1",
+  "description": "Easily swap android sdk sources for device debugging",
+  "main": "swap-source.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nolanus/android-source-swap.git"
+  },
+  "keywords": [
+    "android",
+    "sdk",
+    "version",
+    "source"
+  ],
+  "author": "Sebastian Fuss <sebastian.fuss@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nolanus/android-source-swap/issues"
+  },
+  "homepage": "https://github.com/Nolanus/android-source-swap#readme",
+  "preferGlobal": true,
+  "bin": {
+    "android-swap-sources": "source-swap.js"
+  }
+}
