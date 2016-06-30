@@ -13,9 +13,9 @@ Either globally install the npm module using
 npm install -g android-source-swap
 ````
 
-or download the _source-swap.js.js_ file and place it in your Android project root folder or a script folder. Execute with
+or download the _source-swap.js_ file and place it in your Android project root folder or a script folder. Execute with
 ````
-node source-swap.js.js
+node source-swap.js
 ````
 
 The script requires the `ANDROID_HOME` environment variable to be set and point towards the android-sdk directory, e.g. _/Users/username/.android-sdk/sdk_.
